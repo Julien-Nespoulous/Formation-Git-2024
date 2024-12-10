@@ -1,1 +1,2 @@
 Ceci est le contenu du fichier 2
+Fichier 2 modifié depuis local
