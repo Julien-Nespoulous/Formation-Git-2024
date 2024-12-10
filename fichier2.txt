@@ -1,1 +1,2 @@
 Ceci est le contenu du fichier 2
+Modification du fichier 2 dépôt distant
