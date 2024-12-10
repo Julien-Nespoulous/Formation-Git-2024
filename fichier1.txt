@@ -1,2 +1,3 @@
 Ceci est le contenu du fichier 1
 Modification dans branche idee locale
+Modification dans branche idee distant
